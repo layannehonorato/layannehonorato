@@ -7,7 +7,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <p  align="center">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/layanne-esteves-honorato-b393211a4/" target="blank"><img  src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2017/12/linkedin.png?w=780&h=408&crop=1" alt="https://www.linkedin.com/in/layanne-esteves-honorato-b393211a4/" height="40" width="80" /></a>
+<a href="https://www.linkedin.com/in/layanne-esteves-honorato-b393211a4?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BqwHEQayCQcKE9MVzQ6qtzg%3D%3D" target="blank"><img  src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2017/12/linkedin.png?w=780&h=408&crop=1" alt="https://www.linkedin.com/in/layanne-esteves-honorato-b393211a4/" height="40" width="80" /></a>
 </p>
 
 <h3  align="center">Languages and Tools:</h3>
