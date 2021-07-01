@@ -3,7 +3,7 @@
 <img align="left" src="https://abelanaoafera.com.br/wp-content/uploads/2021/01/original.gif" width="400">
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=layannehonorato&label=Profile%20views&color=0e75b6&style=flat" alt="layannehonorato" /> </p>
 
-<p align="center">- 🌱 I’m currently learning <strong>JQUERY</strong></p>
+<p align="center">- 🌱 I’m currently learning <strong>REACT</strong></p>
 
 <h3 align="center">Connect with me:</h3>
 <p  align="center">
