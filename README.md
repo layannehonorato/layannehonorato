@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Layanne</h1>
-<h3 align="center">A passionate frontend developer from Brazil</h3>
-
+<p align="center"><img src="https://media3.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif" alt="layannehonorato"/></p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=layannehonorato&label=Profile%20views&color=0e75b6&style=flat" alt="layannehonorato" /> </p>
 
 - 🌱 I’m currently learning **JQuery and Bootstrap**
@@ -16,6 +15,6 @@
 
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=layannehonorato&show_icons=true&locale=en&layout=compact" alt="layannehonorato"/>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=layannehonorato&show_icons=true&locale=en&layout=compact" alt="layannehonorato"/><p>
 
   
