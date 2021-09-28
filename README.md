@@ -15,6 +15,5 @@
 
 
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=layannehonorato&show_icons=true&locale=en&layout=compact" alt="layannehonorato"/><p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=layannehonorato&show_icons=true&locale=en&layout=compact&exclude_repo=github-readme-stats,anuraghazra.github.io" alt="layannehonorato"/><p>
 
-  
